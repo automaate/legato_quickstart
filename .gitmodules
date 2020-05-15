@@ -1,3 +1,6 @@
 [submodule "legato_qs_c21_xpro_cpro"]
 	path = legato_qs_c21_xpro_cpro
 	url = https://github.com/automaate/legato_qs_c21_xpro_cpro.git
+[submodule "legato_qs_mzef_cu_tm4301b"]
+	path = legato_qs_mzef_cu_tm4301b
+	url = https://github.com/automaate/legato_qs_mzef_cu_tm4301b.git
