@@ -1,8 +1,3 @@
-\page LegatoQuickstart Quickstart
-[TOC]
-\subpage legato_qs_c21_xpro_cpro_X
-\subpage legato_qs_e54_cu_cpro_spi_X
-
 ## Legato Quickstart
 
 This demonstration provides a touch-enabled starting point for the legato graphics library. 
