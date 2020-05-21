@@ -7,3 +7,6 @@
 [submodule "legato_qs_e54_cu_cpro_spi"]
 	path = legato_qs_e54_cu_cpro_spi
 	url = https://github.com/automaate/legato_qs_e54_cu_cpro_spi.git
+[submodule "legato_qs_e70_xu_tm4301b"]
+	path = legato_qs_e70_xu_tm4301b
+	url = https://github.com/automaate/legato_qs_e70_xu_tm4301b.git
